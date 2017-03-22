@@ -19,6 +19,14 @@ Ceci est le projet du cours ingénieurie financière à L'ESILV
   Prénom:<br>
   <input type="text" name="lastname">
 </form>
+<form>
+	<br>
+  <input type="radio" name="gender" value="male" checked> Male
+  <input type="radio" name="gender" value="female"> Female
+  <input type="radio" name="gender" value="other"> Other  
+</form> 
+<p>Vidéo youtube d'un tutoriel pour démarer avec html</p>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/bWPMSSsVdPk" frameborder="0" allowfullscreen></iframe>
 
       <h3 style="font-size:36px;background-color:orange;"> Ceci est un sous titre mais plus gros </h3>
       <h4> <mark>Ceci est un sous titre idem surligné </mark> </h4>
