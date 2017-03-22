@@ -1,5 +1,5 @@
 # -nourbentchikou-.github.io
-Ceci est le projet du cours ingénieurie financière à L'ESILV
+Ceci est le projet du cours ingénieurie financière à L'ESILV ou je tente de me familiariser avec le langage HTML par le biais de création de site web
 
 <!DOCTYPE html>
 <html>
