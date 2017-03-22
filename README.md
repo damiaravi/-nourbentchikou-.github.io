@@ -8,10 +8,18 @@ Ceci est le projet du cours ingénieurie financière à L'ESILV
 </head>
   <body style="background-color:powderblue;text-align:center;">
       Bonjour bienvenuue sur le site de nbentchi avec un fond bleu ou tout le texte est centré
-
- 
       <h1 style="color:red;"> Ceci est une entrée en matière </h1>
       <h2 style="color:blue;"> Ceci est un sous titre moins important que le precedent</h2>
+      
+<p>Chers visiteurs entrer votre nom prénom pour une collecte de données</p>
+<form>
+  Nom:<br>
+  <input type="text" name="firstname">
+  <br>
+  Prénom:<br>
+  <input type="text" name="lastname">
+</form>
+
       <h3 style="font-size:36px;background-color:orange;"> Ceci est un sous titre mais plus gros </h3>
       <h4> <mark>Ceci est un sous titre idem surligné </mark> </h4>
       <p>Commençons par une citation de WWF: <q>Build a future where people live in harmony with nature.</q></p>
